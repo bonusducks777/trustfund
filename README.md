@@ -62,13 +62,13 @@ Provide a positive feedback loop that encourages charities to consistently reach
 ## Images
 <img width="1512" alt="img1" src="screenshot1.png">
 <img width="1512" alt="img2" src="screenshot2.png">
-<img width="1512" alt="img3" src="screenshot3.png">
-<img width="1512" alt="img4" src="screenshot4.png">
-<img width="1512" alt="img5" src="screenshot5.png">
-<img width="1512" alt="img6" src="screenshot6.png">
-<img width="1512" alt="img7" src="screenshot7.png">
-<img width="1512" alt="img8" src="screenshot8.png">
-<img width="1512" alt="img9" src="screenshot9.png">
+<img width="312" alt="img3" src="screenshot3.png">
+<img width="1412" alt="img4" src="screenshot4.png">
+<img width="1112" alt="img5" src="screenshot5.png">
+<img width="812" alt="img6" src="screenshot6.png">
+<img width="812" alt="img7" src="screenshot7.png">
+<img width="812" alt="img8" src="screenshot8.png">
+<img width="812" alt="img9" src="screenshot9.png">
 
 ## Roadmap
 
