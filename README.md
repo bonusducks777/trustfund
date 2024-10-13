@@ -60,15 +60,15 @@ Provide a positive feedback loop that encourages charities to consistently reach
 
 
 ## Images
-<img width="1512" alt="img1" src="/readmegraphics/screenshot1.png">
-<img width="1512" alt="img2" src="/readmegraphics/screenshot2.png">
-<img width="1512" alt="img3" src="/readmegraphics/screenshot3.png">
-<img width="1512" alt="img4" src="/readmegraphics/screenshot4.png">
-<img width="1512" alt="img5" src="/readmegraphics/screenshot5.png">
-<img width="1512" alt="img6" src="/readmegraphics/screenshot6.png">
-<img width="1512" alt="img7" src="/readmegraphics/screenshot7.png">
-<img width="1512" alt="img8" src="/readmegraphics/screenshot8.png">
-<img width="1512" alt="img9" src="/readmegraphics/screenshot9.png">
+<img width="1512" alt="img1" src="screenshot1.png">
+<img width="1512" alt="img2" src="screenshot2.png">
+<img width="1512" alt="img3" src="screenshot3.png">
+<img width="1512" alt="img4" src="screenshot4.png">
+<img width="1512" alt="img5" src="screenshot5.png">
+<img width="1512" alt="img6" src="screenshot6.png">
+<img width="1512" alt="img7" src="screenshot7.png">
+<img width="1512" alt="img8" src="screenshot8.png">
+<img width="1512" alt="img9" src="screenshot9.png">
 
 ## Roadmap
 
