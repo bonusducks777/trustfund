@@ -57,7 +57,7 @@ Provide a positive feedback loop that encourages charities to consistently reach
 - Multiple layers of DAO mechanisms between authenticators who are decided before time of investment.
 
 ## Demo
-
+https://youtu.be/CS1HEw5K-Tw as of the day of the hackathon 13/10/2024
 
 ## Images
 <img width="1512" alt="img1" src="screenshot1.png">
