@@ -6,6 +6,8 @@
 
 # TrustFund
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
+[Whitepaper](https://www.canva.com/design/DAGTb_B8I2k/vsss6KlPnLs0wCQTtO9p5Q/edit?utm_content=DAGTb_B8I2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  <br>
+<br>
 TrustFund - a Stellar DAPP (Decentralized Application) that holds funded organisations to their promised goals. 
 
 Facilitating easy, immutable **objective-based** funding with **no BS**. 
