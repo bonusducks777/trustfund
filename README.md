@@ -69,6 +69,7 @@ Provide a positive feedback loop that encourages charities to consistently reach
 <img width="812" alt="img7" src="screenshot7.png">
 <img width="812" alt="img8" src="screenshot8.png">
 <img width="812" alt="img9" src="screenshot9.png">
+<img width="412" alt="deployed" src="deployed1.png">
 
 ## Roadmap
 
