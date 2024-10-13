@@ -1,6 +1,8 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/logo.png)
-
+<p align="left">
+<br />
+    <img src="logo.png" width="150" alt=""/>
+<br />
 
 # TrustFund
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
